@@ -1,3 +1,1 @@
-<script>
-  alert("GOT EM");
-</script>
+<iframe src="javascript:alert('GOT EM');"></iframe>
